@@ -1,0 +1,63 @@
+---
+title: Library Carpentries Workshops (2016)
+category:
+- posts
+- Carpentries
+tags:
+- Unix Shell
+- Git
+description: A Carpentries workshop covering Unix Shell, Version Control & Git, Open Refine, and more!
+---
+
+## Introduction
+Library Carpentry is an exploratory program of four three-hour software skills sessions focused on the needs and requirements of the library professionals.
+
+## Topics
+* Jargon Busting & Regular Expressions
+* Unix shell, tabulated data, text data, named entity recognition
+* Version control, github, gh-pages
+* Open refine, cleaning data
+
+## Date
+July 18 - July 22, 2016 (9:00 AM - 12:30 PM)
+* (7/22 will be office hours, no instruction)
+
+## Location
+Seuss Room
+
+## Staff (Instructors & Helpers)
+
+* Juliane Schneider @pitviper6 (Worksohp Lead, Jargon Busing/RegEx & Open Refine)
+* Matt Crichlow @mcritchlow (Git)
+* Reid Otsuji @U2NG (Bash)
+* Tim Dennis @jt14den (Bash)
+* Ryan Johnson @remerjohnson
+
+## Audience
+
+All Library staff interested in learning software skills.
+
+## Registration Pages
+<ul>
+<li>
+<style type="text/css">
+.e2614294 { background-color:#EB1D1D; border:1px solid #EB1D1D; color: #F2FCFC!important; -moz-box-shadow:inset 0px 1px 0px 0px #ffffff; -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff; box-shadow:inset 0px 1px 0px 0px #ffffff;font-size: 14px; font-family: arial; padding:6px 12px; display:inline-block;text-decoration:none; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; border-color: #F2FCFC; } .e2614294:hover { background-color:#F2FCFC; color: #EB1D1D!important; }</style><a href="http://ucsd.libcal.com/event/2614294" class="e2614294">REGISTER FOR DAY 1</a> - Jargon Busting and Regular Expressions (7/18)
+</li>
+<li>
+<style type="text/css">
+.e2614295 { background-color:#F51818; border:1px solid #F51818; color: #FAF2F2!important; -moz-box-shadow:inset 0px 1px 0px 0px #ffffff; -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff; box-shadow:inset 0px 1px 0px 0px #ffffff;font-size: 14px; font-family: arial; padding:6px 12px; display:inline-block;text-decoration:none; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; border-color: #FAF2F2; } .e2614295:hover { background-color:#FAF2F2; color: #F51818!important; }</style><a href="http://ucsd.libcal.com/event/2614295" class="e2614295">REGISTER FOR DAY 2</a> - Basics of Using Bash with Data (7/19)
+</li>
+<li>
+<style type="text/css">
+.e2614296 { background-color:#F70F0F; border:1px solid #F70F0F; color: #F7F4F4!important; -moz-box-shadow:inset 0px 1px 0px 0px #ffffff; -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff; box-shadow:inset 0px 1px 0px 0px #ffffff;font-size: 14px; font-family: arial; padding:6px 12px; display:inline-block;text-decoration:none; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; border-color: #F7F4F4; } .e2614296:hover { background-color:#F7F4F4; color: #F70F0F!important; }</style><a href="http://ucsd.libcal.com/event/2614296" class="e2614296">REGISTER FOR DAY 3</a> - Git and GitHub for Version Control (7/20)
+</li>
+<li>
+<style type="text/css">
+.e2614297 { background-color:#FC0A0A; border:1px solid #FC0A0A; color: #F7EAEA!important; -moz-box-shadow:inset 0px 1px 0px 0px #ffffff; -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff; box-shadow:inset 0px 1px 0px 0px #ffffff;font-size: 14px; font-family: arial; padding:6px 12px; display:inline-block;text-decoration:none; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; border-color: #F7EAEA; } .e2614297:hover { background-color:#F7EAEA; color: #FC0A0A!important; }</style><a href="http://ucsd.libcal.com/event/2614297" class="e2614297">REGISTER FOR DAY 4</a> - Open Refine and Data Cleaning (7/21)
+</li>
+</ul>
+
+## Workshop Website
+
+* [Workshop Website](https://ucsdlib.github.io/2016-07-18-UCSD/)
+* [Collaborative Notes: Etherpad](https://public.etherpad-mozilla.org/p/library-carpentry-ucsd)

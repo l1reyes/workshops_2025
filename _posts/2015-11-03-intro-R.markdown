@@ -1,0 +1,29 @@
+---
+title: Intro to R (2015)
+category:
+- posts
+tags:
+- R
+description: A workshop introducing the basics to R.
+---
+
+## Introduction
+
+This 2 hour course includes a basic introduction to the R syntax, data structures, and language constructs.  We will also cover using RStudio, a tool to help manage R projects and write R scripts.  Following the basics, we will cover how to import data into R and how to work with R's most used data structure,  a dataframe.  This course is geared to participants who are new to R.
+
+## Dates
+Cancelled
+
+## Instructors
+
+* @u2ng - Reid Otsuji
+* @jt14den - Tim Dennis  
+
+## Audience
+
+All graduate students and researchers.
+
+## Resources:
+
+* [Workshop Website](http://ucsdlib.github.io/intro-to-r/)
+* [Software Carpentries Materials](http://software-carpentry.org/lessons/)
