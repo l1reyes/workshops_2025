@@ -136,7 +136,7 @@ assets:
     # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: production
+    env: # [development | production]
 
 pwa:
   enabled: true # The option for PWA feature (installable)
@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://l1reyes.github.io/workshops_2025/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
