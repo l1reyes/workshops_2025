@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://l1reyes.github.io/workshops_2025/"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
